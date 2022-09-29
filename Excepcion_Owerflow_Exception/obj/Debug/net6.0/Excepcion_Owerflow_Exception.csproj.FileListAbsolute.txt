@@ -1,0 +1,15 @@
+C:\Users\abela\source\repos\Excepcion_Owerflow_Exception\Excepcion_Owerflow_Exception\bin\Debug\net6.0\Excepcion_Owerflow_Exception.exe
+C:\Users\abela\source\repos\Excepcion_Owerflow_Exception\Excepcion_Owerflow_Exception\bin\Debug\net6.0\Excepcion_Owerflow_Exception.deps.json
+C:\Users\abela\source\repos\Excepcion_Owerflow_Exception\Excepcion_Owerflow_Exception\bin\Debug\net6.0\Excepcion_Owerflow_Exception.runtimeconfig.json
+C:\Users\abela\source\repos\Excepcion_Owerflow_Exception\Excepcion_Owerflow_Exception\bin\Debug\net6.0\Excepcion_Owerflow_Exception.dll
+C:\Users\abela\source\repos\Excepcion_Owerflow_Exception\Excepcion_Owerflow_Exception\bin\Debug\net6.0\Excepcion_Owerflow_Exception.pdb
+C:\Users\abela\source\repos\Excepcion_Owerflow_Exception\Excepcion_Owerflow_Exception\obj\Debug\net6.0\Excepcion_Owerflow_Exception.csproj.AssemblyReference.cache
+C:\Users\abela\source\repos\Excepcion_Owerflow_Exception\Excepcion_Owerflow_Exception\obj\Debug\net6.0\Excepcion_Owerflow_Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abela\source\repos\Excepcion_Owerflow_Exception\Excepcion_Owerflow_Exception\obj\Debug\net6.0\Excepcion_Owerflow_Exception.AssemblyInfoInputs.cache
+C:\Users\abela\source\repos\Excepcion_Owerflow_Exception\Excepcion_Owerflow_Exception\obj\Debug\net6.0\Excepcion_Owerflow_Exception.AssemblyInfo.cs
+C:\Users\abela\source\repos\Excepcion_Owerflow_Exception\Excepcion_Owerflow_Exception\obj\Debug\net6.0\Excepcion_Owerflow_Exception.csproj.CoreCompileInputs.cache
+C:\Users\abela\source\repos\Excepcion_Owerflow_Exception\Excepcion_Owerflow_Exception\obj\Debug\net6.0\Excepcion_Owerflow_Exception.dll
+C:\Users\abela\source\repos\Excepcion_Owerflow_Exception\Excepcion_Owerflow_Exception\obj\Debug\net6.0\refint\Excepcion_Owerflow_Exception.dll
+C:\Users\abela\source\repos\Excepcion_Owerflow_Exception\Excepcion_Owerflow_Exception\obj\Debug\net6.0\Excepcion_Owerflow_Exception.pdb
+C:\Users\abela\source\repos\Excepcion_Owerflow_Exception\Excepcion_Owerflow_Exception\obj\Debug\net6.0\Excepcion_Owerflow_Exception.genruntimeconfig.cache
+C:\Users\abela\source\repos\Excepcion_Owerflow_Exception\Excepcion_Owerflow_Exception\obj\Debug\net6.0\ref\Excepcion_Owerflow_Exception.dll
